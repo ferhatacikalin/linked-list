@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1609807032 source:c:\users\ferhat\desktop\pro-lab\prolab3\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+
+1609858823 source:c:\users\ferhat\desktop\pro-lab\prolab3\prolab-3send\source\main.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+
